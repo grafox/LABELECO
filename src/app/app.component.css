@@ -1,0 +1,14 @@
+mdl-textfield,mdl-layout-title,mdl-navigation{
+    color: white;
+}
+
+.top-card{
+    width: 1200px;
+    margin: 10px;
+}
+.demo-card-square{
+    margin: 10px;
+}
+mdl-layout-header{
+    height: 300px;
+}
